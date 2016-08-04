@@ -1,0 +1,48 @@
+_repo: The-Cossacks--A-Tale-of-1852_4761
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Maude, Louise
+    aliases:
+    - Shanks, Louise
+    - Maude, Louise Shanks
+    birthdate: 1855
+    deathdate: 1939
+    gutenberg_agent_id: '500'
+    url: http://www.gutenberg.org/2009/agents/500
+    wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+  - agent_name: Maude, Aylmer
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '4589'
+    url: http://www.gutenberg.org/2009/agents/4589
+    wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: Translation of Казаки
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History -- Nicholas I, 1825-1855 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Caucasus -- Fiction'
+- GITenberg
+title: 'The Cossacks: A Tale of 1852'
+url: http://www.gutenberg.org/ebooks/4761
