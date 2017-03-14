@@ -1,5 +1,5 @@
 _repo: The-Cossacks--A-Tale-of-1852_4761
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Maude, Louise
@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '4589'
     url: http://www.gutenberg.org/2009/agents/4589
     wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: Translation of Казаки
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4761#The-Cossacks--A-Tale-of-1852
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
